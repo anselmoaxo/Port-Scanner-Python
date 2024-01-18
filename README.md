@@ -1,12 +1,12 @@
-# Port Scanner Python
+Port Scanner Python
 
 Bem-vindo ao **Port Scanner Python**, uma ferramenta simples baseada no Nmap para realizar varreduras em portas de um determinado endereço IP.
 
-## Descrição
+Descrição
 
 Este projeto consiste em um script Python que utiliza a biblioteca Nmap para realizar varreduras em portas de um endereço IP especificado pelo usuário. A ferramenta oferece três opções de varredura: SYN, UDP e Intensa, proporcionando flexibilidade na identificação de portas abertas.
 
-## Como Usar
+Como Usar
 
 1. Clone ou faça o download do repositório.
 2. Execute o script Python.
